@@ -1,0 +1,2 @@
+A simple TCX file data extractor. Garmin-provided distances are compared to
+Haversine distances based on reported trackpoint positions.
